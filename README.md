@@ -55,12 +55,18 @@ After running through the metadata file available on the COVID-19 [dataset](http
 
 In order to avoid class imbalances, only 180 CXR-PA images of NORMAL and PNEUMONIA patients were randomly selected. These were then split into Train and Test sets with 80-20 ratio for both Binary and Multi Class Classification.
 
-*(Please refer to the EDA_and_Data_Extraction notebook)*
+*(Please refer to the [EDA_and_Data_Extraction notebook](https://github.com/SaikrishnaDandamudi/BrainStation-Capstone-Project/blob/master/Notebooks/EDA_and_Data_Extraction.ipynb))*
 
 *(The preprocessed data set zip files are provided in this repo)*
 
 ## Model Architecture
 
+Binary:
+![alt text](https://github.com/SaikrishnaDandamudi/BrainStation-Capstone-Project/blob/master/Images/Model%20Architecture.png?raw=True)
+
+Multi Class:
+
+![alt text](https://github.com/SaikrishnaDandamudi/BrainStation-Capstone-Project/blob/master/Images/Model%20Architecture.png?raw=True)
 
 
 
@@ -69,10 +75,22 @@ In order to avoid class imbalances, only 180 CXR-PA images of NORMAL and PNEUMON
 
 ### Binary Classification (COVID-19 vs.NORMAL)
 
+Please refer to the [Binary Classification Notebook](https://github.com/SaikrishnaDandamudi/BrainStation-Capstone-Project/blob/master/Binary_Classification_Modeling.ipynb)
+
 ##### Statistical Results
 
+Confusion Matrix: 
 
-##### Visualization
+![alt text](https://github.com/SaikrishnaDandamudi/BrainStation-Capstone-Project/blob/master/Images/Confusion%20Matrix%20Binary%20Class%20Classification.png?raw=True)
+
+Model Accuracy
+
+![alt text](https://github.com/SaikrishnaDandamudi/BrainStation-Capstone-Project/blob/master/Images/Binary_class_Acc-30Epochs.png?raw=True)
+
+Model Loss
+
+![alt text](https://github.com/SaikrishnaDandamudi/BrainStation-Capstone-Project/blob/master/Images/Binary_class_loss-30Epochs.png?raw=True)
+
 
 
 ### Multi Class Classification (COVID-19 vs.PNEUMONIA vs.  NORMAL)
@@ -80,5 +98,12 @@ In order to avoid class imbalances, only 180 CXR-PA images of NORMAL and PNEUMON
 ##### Statistical Results
 
 
+
+
+
 ##### Visualization
  
+
+## Contributing
+Pull requests are welcome.
+
