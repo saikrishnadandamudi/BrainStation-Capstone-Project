@@ -62,6 +62,7 @@ In order to avoid class imbalances, only 180 CXR-PA images of NORMAL and PNEUMON
 ## Model Architecture
 
 Binary:
+
 ![alt text](https://github.com/SaikrishnaDandamudi/BrainStation-Capstone-Project/blob/master/Images/Model%20Architecture.png?raw=True)
 
 Multi Class:
