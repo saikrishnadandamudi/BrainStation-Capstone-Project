@@ -67,10 +67,7 @@ Binary:
 
 Multi Class:
 
-![alt text](https://github.com/SaikrishnaDandamudi/BrainStation-Capstone-Project/blob/master/Images/Model%20Architecture_Multi.png)
-
-
-
+![alt text](https://github.com/SaikrishnaDandamudi/BrainStation-Capstone-Project/blob/master/Images/Model%20Architecture_Multi.pngraw=True)
 
 
 
@@ -82,7 +79,7 @@ Please refer to the [Binary Classification Notebook](https://github.com/Saikrish
 
 Confusion Matrix: 
 
-![alt text](https://github.com/SaikrishnaDandamudi/BrainStation-Capstone-Project/blob/master/Images/Confusion%20Matrix%20Binary%20Class%20Classification.png?raw=True)
+![alt text](https://github.com/SaikrishnaDandamudi/BrainStation-Capstone-Project/blob/master/Images/Confusion%20Matrix%20Binary%20Class%20Classification.png?raw=True) 
 
 Model Accuracy
 
@@ -102,18 +99,16 @@ Please refer to the [Multi Class Classification Notebook](https://github.com/Sai
 
 Confusion Matrix: 
 
-![alt text](https://github.com/SaikrishnaDandamudi/BrainStation-Capstone-Project/blob/master/Images/Confusion%20Matrix%20(Multi%20Class%20Classification.png?raw=True)
+![alt text](https://github.com/SaikrishnaDandamudi/BrainStation-Capstone-Project/blob/master/Images/Confusion%20Matrix%20Multi%20Class%20Classification.png?raw=True) 
+
 
 Model Accuracy
 
-![alt text](https://github.com/SaikrishnaDandamudi/BrainStation-Capstone-Project/blob/master/Images/Binary_class_Acc-30Epochs.png?raw=True)
+![alt text](https://github.com/SaikrishnaDandamudi/BrainStation-Capstone-Project/blob/master/Images/Multi_class_Acc-50Epochs.png?raw=True)
 
 Model Loss
 
 ![alt text](https://github.com/SaikrishnaDandamudi/BrainStation-Capstone-Project/blob/master/Images/Multi_class_loss-50Epochs.png?raw=True)
 
- 
-
 ## Contributing
 Pull requests are welcome.
-
