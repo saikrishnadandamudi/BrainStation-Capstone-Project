@@ -67,7 +67,7 @@ Binary:
 
 Multi Class:
 
-![alt text](https://github.com/SaikrishnaDandamudi/BrainStation-Capstone-Project/blob/master/Images/Model%20Architecture_Multi.pngraw=True)
+![alt text](https://github.com/SaikrishnaDandamudi/BrainStation-Capstone-Project/blob/master/Images/Model%20Architecture_Multi.png?raw=True)
 
 
 
