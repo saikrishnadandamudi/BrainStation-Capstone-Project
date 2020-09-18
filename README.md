@@ -50,6 +50,8 @@ The most vulnerable are people in remote areas within developing countries who g
 1. COVID-19 vs. NORMAL   
 2. COVID-19 vs. NORMAL vs. PNEUMONIA
 
+*Please download the processed X-ray image data [here](https://drive.google.com/drive/folders/1vpX00EI_URZ06-D8Fpqiq6BbPphMy9Jw?usp=sharing)*
+
 ##### Description: 
 After running through the metadata file available on the COVID-19 [dataset](https://github.com/ieee8023/covid-chestxray-dataset), I was able to download **180 images** of COVID positive patients with the PA view (Frontal view).
 
