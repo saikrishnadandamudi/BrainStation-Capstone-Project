@@ -112,5 +112,15 @@ Model Loss
 
 ![alt text](https://github.com/SaikrishnaDandamudi/BrainStation-Capstone-Project/blob/master/Images/Multi_class_loss-50Epochs.png?raw=True)
 
+## Run
+
+1. Download the PreProcessed Datasets.
+2. Use the EDA_and_Dataextraction.ipynb file to clean, create the train and test sets.
+( the processed dataset used along with the zip files and their links are provided in the repo)
+3. Open Binary_Classification.ipynb file in Colabs and upload the Binary dataset zip file
+4. Run the Binary_Classification.ipynb file for the results
+5. Similalry, Open Multi_Class_Classification.ipynb file  and upload the Multi class dataset zip file
+6. Run the Multi_Class_Classification.ipynb file for the results
+
 ## Contributing
 Pull requests are welcome.
