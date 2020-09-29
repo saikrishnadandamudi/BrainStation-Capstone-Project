@@ -16,7 +16,8 @@ An approach to distinguish between **NORMAL, PNEUMONIA and COVID-19** positive p
 
 * Please do not use these notebook for publishing. Further research and expert opinions are needed to validate the results. 
 
-***Note***:  These notebook were ran on Google's Colab to leverage the GPU processing power.
+***Note***:  These notebook were ran on Google's Colab to leverage the GPU processing power. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/notebooks/intro.ipynb#recent=true)
+
 
 ###### *CXR- Chest X-rays
 ###### *PA - Posteroanterior View (Frontal View of Chest X-rays)
